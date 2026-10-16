@@ -1,0 +1,11 @@
+/target
+**/*.wasm
+!contracts/cheque/target
+/web/node_modules
+/web/dist
+.stellar
+*.log
+.DS_Store
+.env
+.env.local
+/web/.env.local
